@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/thrift (fetch)
+origin	git@github.com:skyportsystems/thrift (push)
+upstream	https://github.com/apache/thrift.git (fetch)
+upstream	https://github.com/apache/thrift.git (push)
